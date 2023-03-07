@@ -12,6 +12,7 @@ export default function App() {
     }
   );
 
+
   function spendGiftCard() {
     setGiftCard(prevState => {  // Step 2 
 
